@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Our ancient testimony renewed concerning our Lord and Saviour Jesus Christ, the Holy Scriptures, and the Resurrection occasioned at this time by several unjust charges published against us, and our truly Christian profession, by G. Keith ... / given forth by a meeting of publick Friends, and others, at Philadelphia in Pennsylvania.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53561</idno>
+            <idno type="STC">Wing O591</idno>
+            <idno type="STC">ESTC R31312</idno>
+            <idno type="EEBO-CITATION">14508420</idno>
+            <idno type="OCLC">ocm 14508420</idno>
+            <idno type="VID">102443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1065:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Our ancient testimony renewed concerning our Lord and Saviour Jesus Christ, the Holy Scriptures, and the Resurrection occasioned at this time by several unjust charges published against us, and our truly Christian profession, by G. Keith ... / given forth by a meeting of publick Friends, and others, at Philadelphia in Pennsylvania.</title>
+               </titleStmt>
+               <extent>[2], 33-40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: "The general history of the Quakers."</note>
+                  <note>Imperfect: pages stained and with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102443:1"/>
+            <!-- PDF PAGE 55 -->
+            <p>OUR Antient Teſtimony RENEWED. Concerning our Lord and Saviour Jeſus Chriſt, THE HOLY SCRIPTURES, AND THE Reſurrection, Occaſioned at this time by ſeveral Unjuſt Charges publiſhed againſt us, and our Truly Chriſtian Profeſſion, by <hi>G. Keith,</hi> who hath Unfairly and Untruly Miſrepreſented us.</p>
+            <p>Given forth by a Meeting of Publick Friends, and Others, at <hi>Philadelphia</hi> in <hi>Penſylvania.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 41.2.</hi>
+               </bibl>
+               <p>Yea, mine own Familiar Friend in whom I truſted, and hath eaten of my Bread, hath lifted up his Heel againſt me.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Obad. Ver. 10.</hi>
+               </bibl>
+               <p>Becauſe of the Violence againſt thy Brother <hi>Jacob,</hi> ſhame ſhall cover thy Face, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street.</hi> 1695.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:102443:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>To the READER.</head>
+            <p>THAT we faithfully and ſin<g ref="char:EOLhyphen"/>cerely own and confeſs Chriſt Jeſus our Lord and Saviour, ac<g ref="char:EOLhyphen"/>cording to the Divine Teſtimones of the Holy Writ, and according to his Spiritual Manifeſtations upon our Souls; and it is for our Chri<g ref="char:EOLhyphen"/>ſtian Vindication herein, and not for Controverſie; (for a Conteſt with Contentious Perſons is end<g ref="char:EOLhyphen"/>leſs) this following Confeſſion is writ and ſubmitted to thy pe<g ref="char:EOLhyphen"/>ruſal. <hi>Farewel.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="33" facs="tcp:102443:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>Our Scripture Confeſſion Concerning our Lord <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt.</hi>
+            </head>
+            <div n="1" type="section">
+               <head>I. Concerning his Divinity, and his Being from the Beginning.</head>
+               <p>WE believe, That in the Beginning was the Word,<note place="margin">Jo. 1.1, 2, 3.</note> and that the Word was with God, and the Word was God, the ſame was in the begin<g ref="char:EOLhyphen"/>ning with God; all things were made by him, and without him was not any thing made that was made. Whoſe Goings forth have been from of old, from Everlaſting:<note place="margin">Mic. 5.2. Eph. 3.9.</note> For God Created all things by Jeſus Chriſt, who is the Image of the Inviſible God; the Firſt-born of every Crea<g ref="char:EOLhyphen"/>ture, the Brightneſs of the Father's Glory,<note place="margin">Col. 1.15.</note> and the expreſs Image of his Subſtance.<note place="margin">Heb. 1.3.</note>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>II. Concerning his Appearance in the Fleſh.</head>
+               <p>WE believe, That the Word was made Fleſh,<note place="margin">Joh. 2.14.</note> for he took not on him the Nature of Angels, but took on him the Seed
+<pb n="34" facs="tcp:102443:3"/>
+                  <!-- PDF PAGE 57 -->of <hi>Abraham,</hi>
+                  <note place="margin">Heb. 2.16, 17.</note> being in all things made like unto his Brethren; Touched with a feeling of our Infirimities,<note place="margin">Heb. 4.15.</note> and in all things tempted as we are, yet without Sin: He died for our Sins, according to the Scriptures, and he was buri<g ref="char:EOLhyphen"/>ed, and he roſe again the Third day,<note place="margin">1 Cor. 15.3, 4.</note> accord<g ref="char:EOLhyphen"/>ing to the Scripture.</p>
+            </div>
+            <div n="3" type="section">
+               <head>III. Concerning the End and <g ref="char:V">Ʋ</g>ſe of that Appearance.</head>
+               <p>WE believe, That God ſent his own Son in the likeneſs of ſinful Fleſh,<note place="margin">Jo. 8.3.</note> and for Sin condemned Sin in the Fleſh. For this purpoſe the Son of God was manifeſted, that he might deſtroy the Works of the Devil.<note place="margin">1 Jo. 3, 8.</note> Being mani<g ref="char:EOLhyphen"/>feſted to take away our Sins, for he gave him<g ref="char:EOLhyphen"/>ſelf for us, an Offering and a Sacrifice to God for a ſweet ſmelling ſavour;<note place="margin">Heb. 9.12.</note> having obtained Eternal Redemption for us: And through the Eternal Spirit offered up himſelf without ſpot to God,<note place="margin">Heb. 9.14.</note> to purge our Conſciences from dead Works to ſerve the Living God — He was the Lamb that was ſlain from the Founda<g ref="char:EOLhyphen"/>tion of the World;<note place="margin">Rev. 13.8.</note> of whom the Fathers did all drink; for they drank of that Spiritual Rock that followed them,<note place="margin">1 Cor. 10.4.</note> and that Rock was Chriſt, the ſame yeſterday, to day, and for ever: Who ſuffered for us,<note place="margin">Heb. 13.8.</note> leaving us an Example, that we ſhould follow his ſteps,<note place="margin">1 Pet. 2.21.</note> that the Life alſo of Jeſus may be made manifeſt in our mor<g ref="char:EOLhyphen"/>tal Fleſh!<note place="margin">2 Cor. 4.11.</note> that we may know him, and the power of his Reſurrection, and the Fellowſhip
+<pb n="35" facs="tcp:102443:3"/>
+                  <!-- PDF PAGE 57 -->of his Reſurrection,<note place="margin">Phil. 3.10.</note> and the Fellowſhip of his Sufferings, being made Comformable to his Death.</p>
+            </div>
+            <div n="4" type="section">
+               <head>IV. Concerning the Inward Mani<g ref="char:EOLhyphen"/>feſtation of Chriſt.</head>
+               <p>WE believe, That God dwelleth with the Contrite and Humble in Spirit;<note place="margin">Iſa. 57.17.</note> for he ſaid, he will dwell in them, and walk in them;<note place="margin">2 Cor. 6.16.</note> and that Chriſt ſtandeth at the Door and knock<g ref="char:EOLhyphen"/>eth, if any Man hear his Voice,<note place="margin">Rev. 3.20.</note> and open the Door, he will come into him, and ſup with him.<note place="margin">2 Cor. 13.5.</note> And therefore ought we to examine our ſelves, and prove our own ſelves, knowing how that Chriſt is in us, unleſs we be Re<g ref="char:EOLhyphen"/>probates; for this is the Riches of the Glory of the Myſtery which God would make known among (or rather in) the <hi>Gentiles,</hi>
+                  <note place="margin">Col. 1.27.</note> Chriſt with<g ref="char:EOLhyphen"/>in the hope of Glory.</p>
+            </div>
+            <div n="5" type="section">
+               <head>V. Concerning his being our Media<g ref="char:EOLhyphen"/>tor and Advocate.</head>
+               <p>WE believe, There is one God and one Mediator between God and Man, even the Man Chriſt Jeſus,<note place="margin">i Tim. 2.5, 6.</note> who gave him ſelf a Ran<g ref="char:EOLhyphen"/>ſom for all, to be teſtified in due time — My little Children, theſe things write I unto you, that ye ſin not; and if any Man ſin<g ref="char:punc">▪</g> we have an Advocate with the Father, Chriſt Jeſus the
+<pb n="36" facs="tcp:102443:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 58 -->Righteous — And he is the Propitiation for our Sins,<note place="margin">1 Jo. 2.1, 2.</note> and not for ours only, but for the Sins of the whole World. He ſits on the Right Hand of God the Father,<note place="margin">Heb. 7.25.</note> and ever lives to make Interceſſion for us.</p>
+            </div>
+            <div n="6" type="section">
+               <head>VI. Concerning his <g ref="char:V">Ʋ</g>nity with the Saints.</head>
+               <p>VVE believe, That he that ſanctifieth, and they who are ſanctified,<note place="margin">Heb. 2.11.</note> are all of one; for by the exceeding great and precious Promiſes that are given them, they are made pertakers of the Divine Nature;<note place="margin">2 Pet. 1.4.</note> becauſe for this end prayed Chriſt, ſaying, <hi>That they all may be one, as thou Father art in me, and I in thee, that they alſo may be one in us; and the Glory which thou gaveſt me I have given them, that they may be one, even as we are, I in them, and thou in me,</hi>
+                  <note place="margin">Jo. 17.21, 22, 23.</note> 
+                  <hi>that they may be made perfect in one.</hi>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <head>VII. Concerning his Coming to Judgment.</head>
+               <p>WE believe, That we muſt all appear before the Judgment-ſeat of Chriſt,<note place="margin">2 Cor. 5 10, 11.</note> that every one may receive the things done in his Body, according to that he hath done, whether it be good or bad — Know<g ref="char:EOLhyphen"/>ing
+<pb n="37" facs="tcp:102443:4" rendition="simple:additions"/>
+                  <!-- PDF PAGE 58 -->therefore the Terror of the Lord, we perſwade Men.</p>
+            </div>
+            <div n="8" type="section">
+               <head>VIII. Concerning the Reſurrection.</head>
+               <p>WE Believe, There ſhall be a Reſur<g ref="char:EOLhyphen"/>rection of the Dead, both of the Juſt and Unjuſt; they that have done good to the Reſurrection of Life, and they that have done evil to the Reſurrection of Damnation;<note place="margin">1 Cor. 15.37, 38, 44, 50.</note> Fleſh and Blood cannot Inherit the Kingdom of God, neither doth Corrupti<g ref="char:EOLhyphen"/>on Inherit Incorruption. Nor is that Body ſown that ſhall be, but God giveth it a Bo<g ref="char:EOLhyphen"/>dy as it hath pleaſed him, and to every Seed his own Body: It is ſown in Diſhonour, it is raiſed in Glory; it is ſown in Corruption, it is rais'd in Incorruption; it is ſown in Weak<g ref="char:EOLhyphen"/>neſs, it is raiſed in Power; it is ſown a Natu<g ref="char:EOLhyphen"/>ral Body, it is raiſed a Spiritual Body.</p>
+            </div>
+            <div n="9" type="section">
+               <head>IX. Concerning the Scriptures.</head>
+               <p>VVE Believe,<note place="margin">Rom. 15.4.</note> That whatſoever things were written for our Learning; that we through Patience and Comfort of the Scriptures might have hope—Which are a<g ref="char:EOLhyphen"/>ble to make wiſe unto Salvation through Faith, which is in Chriſt Jeſus:<note place="margin">2 Tim. 3.15, 16, 17.</note> All Scripture given forth by Inſpiration of God (as we believe the Holy Scriptures of the Old and
+<pb n="38" facs="tcp:102443:5"/>
+                  <!-- PDF PAGE 59 -->New Teſtament are) is profitable for Do<g ref="char:EOLhyphen"/>ctrine, for Reproof, for Correction, for In<g ref="char:EOLhyphen"/>ſtruction in Righteouſneſs, that the Man of God may be perfect, throughly furniſhed un<g ref="char:EOLhyphen"/>to all good Works: — And knowing al<g ref="char:EOLhyphen"/>ſo, that no Propheſie of the Scriptures is of any private Interpretation;<note place="margin">2 Pet. 1.20, 21.</note> for Propheſie came not in old time by the Will of Man, but Holy Men of God ſpake as they were moved by the Holy Ghoſt.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Our Solemn Confeſſion, in the Holy Fear of God, concerning our Lord and Saviour Jeſus Chriſt, accord<g ref="char:EOLhyphen"/>ing to the ſeveral Teſtimonies gi<g ref="char:EOLhyphen"/>ven forth by our Faithful Bre<g ref="char:EOLhyphen"/>thren.</head>
+            <p>WE ſincerely believe, own and confeſs no other Lord and Saviour than our Lord Jeſus Chriſt, the Son of the Living God, to whom the Prophets and A<g ref="char:EOLhyphen"/>poſtles give witneſs, and who in the fullneſs of Time took Fleſh of the Seed of <hi>Abraham,</hi> and of the Stock of <hi>David:</hi> We confeſs to his Miraculous Conception by the Power of the Holy Spirit overſhadowing of the Vir<g ref="char:EOLhyphen"/>gin <hi>Mary;</hi> and to his being Born of her (ac<g ref="char:EOLhyphen"/>cording to the Fleſh) and that he took up<g ref="char:EOLhyphen"/>on
+<pb n="39" facs="tcp:102443:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 59 -->him a Real Body, and that he was a Real Man; and that in the Days of his Fleſh he Preached Righteouſneſs, wrought Miracles, was Crucified, being put to Death by Wick<g ref="char:EOLhyphen"/>ed Hands; and that he was Buried, and Roſe again the Third Day according to the Scri<g ref="char:EOLhyphen"/>ptures; and after he Roſe he really ap<g ref="char:EOLhyphen"/>peared to many Brethren, and afterwards he aſcended into Glory according to the Wiſdom and Power of the Heavenly Fa<g ref="char:EOLhyphen"/>ther, and is Glorified with the ſame Glory which he had with the Father, before the World began, being aſcended far above all Heavens, that he might fill all things, whoſe Glory is Incomprehenſible. And we alſo be<g ref="char:EOLhyphen"/>lieve, That he is that one Mediator between God and Man, <hi>viz.</hi> that Intire, Perfect, Hea<g ref="char:EOLhyphen"/>venly, and moſt Glorious Man, Chriſt Jeſus, who ever lives, and endures in his Soul (or Spirit) and Glorious Body. We further believe, That according to his Promiſe to his Diſciples before he left them, <hi>(viz.)</hi> That he would come unto them again, and that he that was with them ſhould be in them, and they in Chriſt, and Chriſt in them, <hi>John</hi> 14.20. and that accordingly he came; and that he who appeared in that Body which was prepa<g ref="char:EOLhyphen"/>red for him, was full of Grace and Truth, and received the Spirit not by meaſure, ap<g ref="char:EOLhyphen"/>peared by a meaſure of his Grace and Spirit in his Apoſtles and Diſciples, and doth ſince in all his Faithful Followers; And that he is their King, Prophet, and High-prieſt, and Interceeds and Mediates in their behalf, bring<g ref="char:EOLhyphen"/>ing in Everlaſting Righteouſneſs, Peace and Aſſurance for ever into their Hearts and Con<g ref="char:EOLhyphen"/>ſciences, to whom be everlaſting Honour and Dominion, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="40" facs="tcp:102443:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 60 -->
+            <head>Concerning the Soul's Immortality, and the Reſurrection.</head>
+            <p>WE believe our Souls are Immortal, and ſhall be preſerved in their diſtinct and proper Beings, and ſhall have Spiritual, Glo<g ref="char:EOLhyphen"/>rious Bodies, ſuch as ſhall be proper for them, as it ſhall pleaſe God to give them in the Reſur<g ref="char:EOLhyphen"/>rection, that we may be capable of our parti<g ref="char:EOLhyphen"/>cular Rewards, and different Degrees of Glory after this Life in the World to come.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Griffith Owen,</hi>
+                     </item>
+                     <item>
+                        <hi>John Wilsford,</hi>
+                     </item>
+                     <item>
+                        <hi>George Maris,</hi>
+                     </item>
+                     <item>
+                        <hi>John Adams,</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Walln,</hi>
+                     </item>
+                     <item>
+                        <hi>William Biles,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Owen,</hi>
+                     </item>
+                     <item>
+                        <hi>John Lynam,</hi>
+                     </item>
+                     <item>
+                        <hi>John Humphreys,</hi>
+                     </item>
+                     <item>
+                        <hi>Caleb Puſey,</hi>
+                     </item>
+                     <item>
+                        <hi>Alex Beardſley,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Richardſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Jackſon,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Gove,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Ormo,</hi>
+                     </item>
+                     <item>
+                        <hi>William Southby,</hi>
+                     </item>
+                     <item>
+                        <hi>David Lloyd,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Jennings,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Duckett,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Janney,</hi>
+                     </item>
+                     <item>
+                        <hi>Arthur Cooke,</hi>
+                     </item>
+                     <item>
+                        <hi>John Symcock,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Ewer,</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Carpenter,</hi>
+                     </item>
+                     <item>
+                        <hi>Phin. Pemberton,</hi>
+                     </item>
+                     <item>
+                        <hi>John Bevan,</hi>
+                     </item>
+                     <item>
+                        <hi>Cadder Morgan,</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Walter,</hi>
+                     </item>
+                     <item>
+                        <hi>Lewis David,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Jones,</hi>
+                     </item>
+                     <item>
+                        <hi>Reece John William,</hi>
+                     </item>
+                     <item>
+                        <hi>Griffith John,</hi>
+                     </item>
+                     <item>
+                        <hi>John Roberts,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Jones,</hi>
+                     </item>
+                     <item>
+                        <hi>Robert David,</hi>
+                     </item>
+                     <item>
+                        <hi>William Edward,</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Rees,</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Jones,</hi>
+                     </item>
+                     <item>
+                        <hi>James Fox.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
